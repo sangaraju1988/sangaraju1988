@@ -8,5 +8,5 @@
 - [Semantic Layers May Become the API Layer for AI](https://medium.com/towards-artificial-intelligence/semantic-layers-may-become-the-api-layer-for-ai-8aac11345b25)
 - [Deploying Looker MCP at Enterprise Scale: What Actually Works and What Doesn't](https://medium.com/towards-artificial-intelligence/deploying-looker-mcp-at-enterprise-scale-what-actually-works-and-what-doesnt-a40dd4bab3f3)
 - [Classification Drift in AI-Augmented Data Analytics: A New Attack Surface for PII and PCI Exposure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:qjMakFHDy7sC)
-- [Add publication title](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:u5HHmVD_uO8C)
-- [Add publication title](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:UeHWp8X0CEIC)
+- [From Semantic Layers to AI-Native Data Interfaces: Evolution, Challenges, and Governance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:u5HHmVD_uO8C)
+- [IT-IFC: Ingestion-Centric Information Flow Control for Preventing PII/PCI Leakage in AI-Augmented BI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:UeHWp8X0CEIC)
