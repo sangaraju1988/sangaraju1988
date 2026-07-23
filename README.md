@@ -6,8 +6,9 @@
 
 - **[From Chaos to Trusted Agents: Master the Semantic Standard with LookML](https://www.googlecloudevents.com/next-vegas/session/3912242/from-chaos-to-trusted-agents-master-the-semantic-standard-with-lookml)** — Google Cloud Next '26, Las Vegas · [Speaker profile](https://www.googlecloudevents.com/next-vegas/speaker/2180843/venkata-sangaraju?i=E29OwuXn0RFOE-Ka5caFkPRO3y85I3TA)
 
-### **Judging & Reviewing**
+### **Judging & Mentoring**
 
+- **Mentor, Dell x NVIDIA AI Hackathon — Local AI on Dell Pro Max with GB10** — Seattle (remote) · [Event page](https://builderbase.com/v2/event/dell-x-nvidia-ai-hackathon-seattle)
 - **Judge, Global South AI Hackathon 2026** — Apart Research · [Details](https://apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21#:~:text=financial%20DevOps%20environments.-,Venkata%20Sangaraju,-Judge)
 - **Reviewer, IJCAI-ECAI 2026 Workshop — GlobalSouthAI** · [OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/GlobalSouthAI/Reviewers&referrer=%5BHomepage%5D(%2F))
 
