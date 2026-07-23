@@ -1,4 +1,4 @@
-## **Venkata Sangaraju**
+## **Venkata M Sangaraju**
 
 <sub>Data & analytics engineer focused on the parts that actually decide whether enterprise analytics works in production — semantic layers, data governance enforcement, BigQuery performance and cost, Looker at scale, and the tooling around them. Also building production agentic systems: Looker MCP servers, semantic-layer-as-API patterns, and agentic analytics on top of BigQuery.</sub>
 
