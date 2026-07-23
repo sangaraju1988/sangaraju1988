@@ -2,6 +2,15 @@
 
 <sub>Data & analytics engineer focused on the parts that actually decide whether enterprise analytics works in production — semantic layers, data governance enforcement, BigQuery performance and cost, Looker at scale, and the tooling around them. Also building production agentic systems: Looker MCP servers, semantic-layer-as-API patterns, and agentic analytics on top of BigQuery.</sub>
 
+### **Speaking**
+
+- **[From Chaos to Trusted Agents: Master the Semantic Standard with LookML](https://www.googlecloudevents.com/next-vegas/session/3912242/from-chaos-to-trusted-agents-master-the-semantic-standard-with-lookml)** — Google Cloud Next '26, Las Vegas · [Speaker profile](https://www.googlecloudevents.com/next-vegas/speaker/2180843/venkata-sangaraju?i=E29OwuXn0RFOE-Ka5caFkPRO3y85I3TA)
+
+### **Judging & Reviewing**
+
+- **Judge, Global South AI Hackathon 2026** — Apart Research · [Details](https://apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21#:~:text=financial%20DevOps%20environments.-,Venkata%20Sangaraju,-Judge)
+- **Reviewer, IJCAI-ECAI 2026 Workshop — GlobalSouthAI** · [OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/GlobalSouthAI/Reviewers&referrer=%5BHomepage%5D(%2F))
+
 ### **Articles**
 
 - [From Policy to Enforcement: Operationalizing Data Governance in Enterprise-Scale Analytics Platforms](https://scholar.google.com/citations?user=N3pAzukAAAAJ&hl=en#:~:text=From%20Policy%20to%20Enforcement%3A%20Operationalizing%20Data%20Governance%20in%20Enterprise%2DScale%20Analytics%20Platforms)
