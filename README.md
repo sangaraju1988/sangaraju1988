@@ -20,4 +20,4 @@
 - [Classification Drift in AI-Augmented Data Analytics: A New Attack Surface for PII and PCI Exposure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:qjMakFHDy7sC)
 - [From Semantic Layers to AI-Native Data Interfaces: Evolution, Challenges, and Governance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:u5HHmVD_uO8C)
 - [IT-IFC: Ingestion-Centric Information Flow Control for Preventing PII/PCI Leakage in AI-Augmented BI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N3pAzukAAAAJ&citation_for_view=N3pAzukAAAAJ:UeHWp8X0CEIC)
-- [small library so my LLM agent stops double-charging] (https://sangaraju1988.github.io/latch)
+- [small library so my LLM agent stops double-charging](https://sangaraju1988.github.io/latch)
