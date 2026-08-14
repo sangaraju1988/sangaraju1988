@@ -24,4 +24,4 @@
 
 ## Data Engineering Labs
 
-| [stream-ingest-kafka](https://github.com/venkata-ai-lab/stream-ingest-kafka) | Real-time ingestion pipeline: ... |
+| [stream-ingest-kafka](https://github.com/venkata-ai-lab/stream-ingest-kafka) | Real-time ingestion pipeline: Redpanda (Kafka-API compatible), Avro + Schema Registry, exactly-once producer→consumer→sink verified against a real crash, dead-letter queue for semantically invalid events, backward-compatible schema evolution  |
